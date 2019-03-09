@@ -1,0 +1,28 @@
+.thumbnail {
+	border-radius: 0;
+}
+
+.thumbnail:active {
+	opacity: 0.4;
+}
+
+.thumbnail img {
+	object-fit: contain;
+}
+
+#results {
+	margin-top: 20px;
+}
+
+.comparison-renders {
+	border: 1px solid #DDDDDD;
+  width: 30%;
+  display: inline-block;
+  margin-right: 10px;
+	margin-bottom: 10px;
+	background: #FFF;
+}
+
+.container {
+	margin-top: 100px;
+}
